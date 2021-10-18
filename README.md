@@ -6,7 +6,7 @@ Originally created by: [@precision](https://github.com/precision) (original repo
 
 ## Setup
 
-1. Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
+1. Install via the bundled [Plugin Manager](https://plugins.octoprint.org/help/installation/)
 or manually using this URL:
 
     	https://github.com/Andy-ch/OctoPrint-HeaterTimeout/archive/master.zip
