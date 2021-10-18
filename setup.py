@@ -21,7 +21,7 @@ plugin_version = "0.0.3"
 plugin_description = """OctoPrint plugin to shutdown heaters after an idle timeout"""
 plugin_author = "Uriah Welcome"
 plugin_author_email = "uriah@google.com"
-plugin_url = "https://github.com/google/OctoPrint-HeaterTimeout"
+plugin_url = "https://github.com/Andy-ch/OctoPrint-HeaterTimeout"
 plugin_license = "Apache"
 
 plugin_additional_data = []

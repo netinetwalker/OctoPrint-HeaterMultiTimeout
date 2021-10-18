@@ -136,12 +136,12 @@ class HeaterTimeout(octoprint.plugin.AssetPlugin,
 
 				# version check: github repository
 				type="github_release",
-				user="google",
+				user="Andy-ch",
 				repo="OctoPrint-HeaterTimeout",
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/google/OctoPrint-HeaterTimeout/archive/{target_version}.zip"
+				pip="https://github.com/Andy-ch/OctoPrint-HeaterTimeout/archive/{target_version}.zip"
 			)
 		)
 
