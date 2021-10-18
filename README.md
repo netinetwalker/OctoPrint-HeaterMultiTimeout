@@ -9,7 +9,7 @@ Originally created by: [@precision](https://github.com/precision) (original repo
 1. Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    	https://github.com/google/OctoPrint-HeaterTimeout/archive/master.zip
+    	https://github.com/Andy-ch/OctoPrint-HeaterTimeout/archive/master.zip
 
 1. Restart OctoPrint
 
