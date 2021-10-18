@@ -2,6 +2,8 @@
 
 OctoPrint Plugin that automatically shuts down heaters after a specified idle timeout.
 
+Originally created by: [@precision](https://github.com/google/OctoPrint-HeaterTimeout)
+
 ## Setup
 
 1. Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
