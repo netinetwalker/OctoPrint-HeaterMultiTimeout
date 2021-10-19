@@ -130,7 +130,7 @@ class HeaterTimeout(octoprint.plugin.AssetPlugin,
 
 	def get_update_information(self):
 		return dict(
-			emergencyaction=dict(
+			HeaterTimeout=dict(
 				displayName="Heater Timeout Plugin",
 				displayVersion=self._plugin_version,
 
