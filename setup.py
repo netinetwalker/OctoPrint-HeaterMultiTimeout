@@ -14,14 +14,14 @@
 #
 # coding=utf-8
 
-plugin_identifier = "HeaterTimeout"
-plugin_package = "octoprint_HeaterTimeout"
-plugin_name = "OctoPrint-HeaterTimeout"
-plugin_version = "0.0.4"
-plugin_description = """OctoPrint plugin to shutdown heaters after an idle timeout"""
-plugin_author = "Andrew Cherevatkin, Uriah Welcome"
-plugin_author_email = "andy.v.che@gmail.com, uriah@google.com"
-plugin_url = "https://github.com/Andy-ch/OctoPrint-HeaterTimeout"
+plugin_identifier = "HeaterMultiTimeout"
+plugin_package = "octoprint_HeaterMultiTimeout"
+plugin_name = "OctoPrint-HeaterMultiTimeout"
+plugin_version = "0.0.5"
+plugin_description = """OctoPrint plugin to shutdown heaters after multiply timeouts"""
+plugin_author = "Andrew Cherevatkin, Uriah Welcome, netinetwalker"
+plugin_author_email = "andy.v.che@gmail.com, uriah@google.com, netman3d@gmail.com"
+plugin_url = "https://github.com/netinetwalker/OctoPrint-HeaterMultiTimeout"
 plugin_license = "Apache"
 
 plugin_additional_data = []

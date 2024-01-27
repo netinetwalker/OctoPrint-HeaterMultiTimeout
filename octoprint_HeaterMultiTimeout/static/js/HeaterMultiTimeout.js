@@ -16,16 +16,16 @@
  *
  */
 $(function() {
-    function HeaterTimeoutViewModel(parameters) {
+    function HeaterMultiTimeoutViewModel(parameters) {
         var self = this;
-        var msgTitle = "HeaterTimeout";
+        var msgTitle = "HeaterMultiTimeout";
         var msgType = "error";
         var autoClose = false;
 
         self.settingsViewModel = parameters[0];
 
         self.onDataUpdaterPluginMessage = function(plugin, data) {
-            if (plugin != "HeaterTimeout") {
+            if (plugin != "HeaterMultiTimeout") {
                 return;
             }
 
@@ -41,7 +41,7 @@ $(function() {
     }
 
     ADDITIONAL_VIEWMODELS.push([
-        HeaterTimeoutViewModel,
+        HeaterMultiTimeoutViewModel,
 
         // This is a list of dependencies to inject into the plugin, the order which you request
         // here is the order in which the dependencies will be injected into your view model upon
